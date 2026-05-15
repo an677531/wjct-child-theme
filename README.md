@@ -21,3 +21,6 @@ Check that the body text is rendering with font Oswald
 
 ## What I would improve
 Given more time I would research and target more specific attributes, tags, and classes to ensure that no unintended styling outcomes could happen. I would also create font fallbacks in case the google fonts fail to load. Alternatively I would host the fonts locally in the theme. This approach would be safer since it does not rely on a third party.
+
+## Additional Notes
+I used Claude as a development collaborator throughout this project. Specifically I used it to generate the initial boilerplate for the plugin structure, verify WordPress best practices around nonce verification and sanitization, and talk through implementation decisions. All code was reviewed, tested, and understood before committing.
