@@ -1,0 +1,1 @@
+# wjct-child-theme
